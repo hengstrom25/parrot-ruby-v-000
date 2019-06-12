@@ -3,6 +3,5 @@
 
 def parrot(string)
   puts
- 
-  
+  return "#s"
 end  
